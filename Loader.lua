@@ -1,7 +1,3 @@
---[[
-    Kalmin Secure Loader - Elite Terminal Edition
-    Features: Smooth UI fading, asynchronous checking, dynamic progress bar, and rich text formatting.
-]]
 
 local CoreGui = game:GetService("CoreGui")
 local Players = game:GetService("Players")
@@ -16,7 +12,6 @@ local Config = {
     Blacklist = {
         0000000002, 
         0000000001,
-        -- Add Rivals PlaceId or others here
     },
     
     -- Status configuration: "Up" or "Down"
