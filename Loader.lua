@@ -16,7 +16,7 @@ local Config = {
     
     -- Status configuration: "Up" or "Down"
     Status = "Up", 
-    DowntimeReason = "Script is currently undergoing maintenance to bypass new anti-cheats. Check Discord.",
+    DowntimeReason = "Script is currently undergoing maintenance to bypass new anti-cheats. Check Discord(.gg/DdjVT2aMwx)",
     
     -- The script to execute when all checks pass
     TargetScript = [[loadstring(game:HttpGet("https://raw.githubusercontent.com/FuddyOG/MainOptimumRealScript/refs/heads/main/MainOptumumRealScript.lua"))()]],
