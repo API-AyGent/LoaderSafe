@@ -10,7 +10,7 @@ local RunService = game:GetService("RunService")
 local Config = {
     -- List of Game PlaceIds that are strictly forbidden.
     Blacklist = {
-        0000000002, 
+        17625359962, 
         0000000001,
     },
     
